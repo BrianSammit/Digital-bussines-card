@@ -1,3 +1,5 @@
+import './interest.css';
+
 export default function Interest () {
  return (
   <div className="interest">

@@ -1,8 +1,17 @@
 body {
-  font-family: 'Inter', sans-serif;;
+  font-family: 'Inter', sans-serif;
 }
 
 .app {
-  background-color: #1A1B21;
+  display: flex;
+  justify-content: center;
+  width: 550px;
+  background-color: #23252C;
+}
+
+main {
   width: 317px;
+  background-color: #1A1B21;
+  margin: 50px 0;
+  border-radius: 10px 10px 0px 0px;
 }
